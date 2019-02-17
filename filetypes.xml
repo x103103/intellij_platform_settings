@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping pattern="Dockerfile.zsh" type="Dockerfile" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping pattern="docker-compose.yml*" type="YAML" />
+      <removed_mapping pattern="docker-compose.yml*" approved="true" type="Dockerfile" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,22 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="ruby">
+        <configuration>
+          <option name="evaluationControl" value="false" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

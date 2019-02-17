@@ -1,0 +1,10 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Ruby Class Template.rb" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Ruby Module Template.rb" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Test-Spec Template.rb" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="TestUnit Test Template.rb" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
+  </component>
+</application>

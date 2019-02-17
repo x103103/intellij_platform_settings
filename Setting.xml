@@ -1,0 +1,8 @@
+<application>
+  <component name="SettingVariables">
+    <option name="esVersion" value="ES7" />
+    <option name="importMode" value="OldModules" />
+    <option name="needDefault" value="true" />
+    <option name="noSemiColons" value="false" />
+  </component>
+</application>

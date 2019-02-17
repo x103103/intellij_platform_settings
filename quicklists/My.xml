@@ -1,0 +1,7 @@
+<list display="My">
+  <action id="Git.Pull" />
+  <action id="Git.Fetch" />
+  <action id="Docker.RemoteServers.Attach2Container" />
+  <action id="Docker.RemoteServers.StopComposeService" />
+  <action id="Docker.RemoteServers.StartComposeService" />
+</list>

@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Ruby/Replace safe navigation with nested nil checks" />
+  </component>
+</application>

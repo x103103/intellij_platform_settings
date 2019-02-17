@@ -1,0 +1,9 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Docker" displayType="NONE" />
+    <notification groupId="Docker Compose" displayType="NONE" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="RuboCop Execution Error" displayType="NONE" />
+  </component>
+</application>

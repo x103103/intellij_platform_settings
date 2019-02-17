@@ -1,0 +1,235 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>CSV</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsRuby</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Rails</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Ruby</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Eslint</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/11.9.0/bin/node">
+      <version-cache version="11.9.0" last-modified="1549767763000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="11.9.0" last-modified="1549767763000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.15.1/bin/node">
+      <version-cache version="10.15.1" last-modified="1548746314000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.14.1/bin/node">
+      <version-cache version="10.14.1" last-modified="1543505921000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.12.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.11.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.12.0/bin/node">
+      <version-cache version="8.12.0" last-modified="1536605058000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.11.4/bin/node">
+      <version-cache version="8.11.4" last-modified="1534343105000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="2-255-0-68,,,30-30-30-255,,,21-127-104-255,,,17-81-64-255,,,0-81-45-255,,,0-141-105-255,,,141-132-13-255,,,141-91-0-255,,,95-86-11-255,,,7-23-95-255,,,79-70-10-255,,,59-56-155-255,,,130-127-64-255,,,104-101-52-255,,,136-140-193-255,,,101-50-93-255,,,77-38-69-255,,,54-10-10-255,,,77-16-72-255,,,42-40-87-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.79502195" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="string&#10;stati" />
+    <property name="InstalledPluginsSearchHistory" value="#bundled&#10;#custom&#10;#disabled" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="18" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="com&#10;sur&#10;open&#10;file" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJSX Harmony" value="true" />
+    <property name="LayoutCode.rearrangeEntriesRuby" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="node" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.1883041" />
+    <property name="RSpecSupport.openFailureLine" value="false" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="SettingsSearchHistory" value="settings repo&#10;open&#10;rubo&#10;prop&#10;props" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="StringManipulation.SortAction.SortSettings" value="CASE_INSENSITIVE_A_Z|REMOVE|true|true|false|,;" />
+    <property name="SvgEditorLayout" value="Editor only" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="node&#10;ruby" />
+    <property name="TrendingPluginsSearchHistory" value="react&#10;sortBy:updated&#10;sortBy:featured&#10;map&#10;git" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="307" />
+    <property name="completion.stats.allow.message.shown" value="true" />
+    <property name="completion.stats.experiment.salt" value="dd66e3db" />
+    <property name="completion.stats.experiment.version" value="2" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt.182" value="1660dd9e029" />
+    <property name="evlsprt.RM-183.2635.5" value="166870603fb" />
+    <property name="evlsprt.RM-183.3647.23" value="16711b2b3a6" />
+    <property name="evlsprt2.182" value="165ff51df27" />
+    <property name="evlsprt2.RM-183.2635.5" value="1662e7d0e41" />
+    <property name="evlsprt2.RM-183.3647.23" value="166bb516960" />
+    <property name="evlsprt3.182" value="15" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="evlsprt3.RM-183.2635.5" value="19" />
+    <property name="evlsprt3.RM-183.3647.23" value="17" />
+    <property name="evlsprt3.RM-183.4139.32" value="14" />
+    <property name="evlsprt3.RM-183.4284.57" value="16" />
+    <property name="exception.accepted.notices" value="182193a2" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/RubymineProjects/syndicode/instalinks/auth-service/app" />
+    <property name="file.colors.enable.non.project" value="360a0a" />
+    <property name="file.gist.reindex.count" value="242894" />
+    <property name="fileTypeChangedCounter" value="11" />
+    <property name="javascript.refactoring.extractComponent.property.key" value="Function" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.var.names.completion" value="true" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="752" />
+    <property name="param.hints.settings.last.edited.language" value="SQL" />
+    <property name="rake.run.task.popup.search.mask" value="db" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="selected.color.option.type" value="CUSTOM_KEYWORD1_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.CSS" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.EditorConfig" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Spaces" />
+    <property name="settings.code.style.selected.tab.LESS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.SASS" value="Blank Lines" />
+    <property name="settings.code.style.selected.tab.SCSS" value="Other" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
+    <property name="settings.code.style.selected.tab.editorconfig" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.ruby" value="Code Generation" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="5b8add4e4bdd8585b7299996" name="Personal" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="57862e8f01cf3cbb31e18767" name="alex_oliinyk" />
+      </option>
+      <password>dfccdf92df98df9bdfcbdf9ddf9ddfc9df92df93df9fdf9adfcbdfccdfcedf99dfc8dfc9df92dfc9df9fdfcfdfc9dfccdfcbdf93dfccdf9adfcedfccdfcedfccdf93df92df9cdf99dfcedf9bdf98dfcbdf98dfc9df93dfc8df92df98df9edf9adf9bdfcfdf9edfcbdf9cdf92df9adf98dfcedf9fdf9bdfc8dfc8dfc9df92dfcf</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
+</application>

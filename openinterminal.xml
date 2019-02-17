@@ -1,0 +1,6 @@
+<application>
+  <component name="OpenInTerminalSettings">
+    <option name="terminalCommand" value="bin/zsh" />
+    <option name="terminalCommandOptions" value="" />
+  </component>
+</application>
